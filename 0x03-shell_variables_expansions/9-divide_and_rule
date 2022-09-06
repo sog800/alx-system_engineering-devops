@@ -1,2 +1,2 @@
 #!/bin/bash
-ans=`expr $POWER /$DEVIDE` ; echo $ans\n
+echo $(($POWER/$DIVIDE))$
