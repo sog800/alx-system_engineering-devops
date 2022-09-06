@@ -1,5 +1,5 @@
-total 100
-drwxr-xr-x 2 root root  4096 Sep  5 21:16 .
+total 104
+drwxr-xr-x 2 root root  4096 Sep  5 21:24 .
 drwxr-xr-x 6 root root   104 Sep  5 00:24 ..
 -rwxr--r-- 1 root root    35 Sep  5 05:37 0-hello_world
 -rwxr--r-- 1 root root    20 Sep  5 11:28 10-no_more_js
@@ -14,11 +14,12 @@ drwxr-xr-x 6 root root   104 Sep  5 00:24 ..
 -rwxr--r-- 1 root root    39 Sep  5 01:52 4-lastlines
 -rwxr--r-- 1 root root    39 Sep  5 02:00 5-firstlines
 -rwxr--r-- 1 root root    39 Sep  5 05:56 6-third_line
--rwxr--r-- 1 root root    80 Sep  5 13:37 7-file
+-rwxr--r-- 1 root root    76 Sep  5 21:24 7-file
 -rw-r--r-- 1 root root 12288 Sep  5 05:02 .7-file.swp
 -rwxr--r-- 1 root root    36 Sep  5 07:04 8-cwd_state
 -rwxr--r-- 1 root root    35 Sep  5 21:16 9-duplicate_last_line
+-rw-r--r-- 1 root root    38 Sep  5 21:25 \*\'Best
 -rw-r--r-- 1 root root   811 Sep  5 11:16 iacta
 -rw-r--r-- 1 root root   255 Sep  5 12:04 list
--rw-r--r-- 1 root root     0 Sep  5 21:16 ls_cwd_content
+-rw-r--r-- 1 root root     0 Sep  5 21:27 ls_cwd_content
 -rw-r--r-- 1 root root    25 Sep  5 00:27 README.md
