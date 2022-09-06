@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..n}-{a..n}; echo {p..z}-{p..z}; echo {a..n}-{o..o}; echo {p..z}-{o..o} | uniq -D
